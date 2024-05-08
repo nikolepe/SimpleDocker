@@ -1,15 +1,15 @@
-Hello, student of School21!😉
+Hello, School21 student! 😉
 
-To make it easier for you to navigate the material, we have prepared a list of topics that you will learn in this project.
+To help you navigate through the material, we have prepared a list of topics that you will learn in this project.
 
-We will study:
+We will learn:
 
-- docker commands;
-- using docker images;
-- creating docker images;
+- Docker commands;
+- Using docker images;
+- Creating Docker Images;
 - nginx;
-- creating web-server with FastCgi;
+- building web servers with FastCgi;
 - dockle;
-- docker-compose.
+- building docker.
 
-Now, knowing what awaits you in this project, you can slowly begin to study the topics listed above.😇
+Now that you know what awaits you in this project, you can slowly begin to study the topics listed above. 😇
