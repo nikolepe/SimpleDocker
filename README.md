@@ -123,8 +123,8 @@ You chose a pretty simple **nginx**.
 ##### Check that the image is running with `docker ps`.
 ##### View container information with `docker inspect [container_id|container_name]`.
 ##### From the command output define and write in the report the container size, list of mapped ports and container ip.
-##### Stop docker image with `docker stop [container_id|container_name]`.
-##### Check that the image has stopped with `docker ps`.
+##### Stop docker container with `docker stop [container_id|container_name]`.
+##### Check that the container has stopped with `docker ps`.
 ##### Run docker with ports 80 and 443 in container, mapped to the same ports on the local machine, with *run* command.
 ##### Check that the **nginx** start page is available in the browser at *localhost:80*.
 ##### Restart docker container with `docker restart [container_id|container_name]`.
