@@ -4,6 +4,8 @@ Introduction to docker. Developing a simple docker image for your own server.
 
 The russian version of the task can be found in the repository.
 
+💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
+
 ## Contents
 
 1. [Chapter I](#chapter-i)
@@ -222,5 +224,3 @@ Why not try experimenting with deploying a project consisting of several docker 
 ##### Build and run the project with the `docker-compose build` and `docker-compose up` commands.
 ##### Check that the browser returns the page you wrote on *localhost:80* as before.
 
-
-💡 [Tap here](https://forms.yandex.ru/cloud/6418195450569020f1f159c4/) **to leave your feedback on the project**. Product Team really tries to make your educational experience better.
