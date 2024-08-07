@@ -31,8 +31,8 @@ Planet Earth, somewhere in the middle of the sea, today.
 You never liked to move. Lots of fuss, little action. But you managed to find a great job in another city to immerse yourself in the DevOps world.
 And you're not one to let a little trouble ruin your plans.
 
-From your cabin window, you hear the sound of the waves, the ship peacefully rocking on them, and you remember your favourite novel about the sea - "Moby Dick".
-Although the plot is far from straightforward, with many lyrical digressions and philosophical musings, you, like everyone else, associate this book primarily with Moby Dick himself - the white whale.
+From your cabin window, you hear the sound of the waves, the ship peacefully rocking on them, and you remember your favourite novel about the sea — "Moby Dick".
+Although the plot is far from straightforward, with many lyrical digressions and philosophical musings, you, like everyone else, associate this book primarily with Moby Dick himself — the white whale.
 
 "Hmm... White whale..." This is where you remember that during the long voyage you wanted to work on the dock.
 
@@ -57,8 +57,8 @@ A container is a new "executable file" that includes all the dependencies the pr
 The main advantage of containerisation is the isolation of dependencies and a single, simple software start-up point.
 
 Basic terms:
-- Docker image - the "package" for the application and dependencies (including system ones).
-- Container - an instance of an image, i.e. a 'alive' image.
+- Docker image — the "package" for the application and dependencies (including system ones).
+- Container — an instance of an image, i.e. a 'alive' image.
 
 **Docker** is a platform that is designed to develop, deploy and run applications in containers.
 **Docker** is the 'de-facto' standard containerisation tool in the industry, but it is not the first or last among containerisation technologies.
