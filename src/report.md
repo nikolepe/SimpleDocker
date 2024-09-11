@@ -2,7 +2,7 @@
 
 ## Part1. Ready-made docker
 
-* Возьмемо официальный docker-образ с nginx и выкачаем его при помощи команды `docker pull` 
+* Возьмем официальный docker-образ с nginx и выкачаем его при помощи команды `docker pull` 
 ![pull_nginx](img/pull_nginx.png)
 
 * Далее удостоверимся в наличии образа через команду `docker images` 
