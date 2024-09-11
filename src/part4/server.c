@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 #include "fcgi_stdio.h"
 
 int main(void){
